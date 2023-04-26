@@ -20,7 +20,7 @@ export function Sidebar () {
           <a href=""> <DotsThreeCircle/> <span>More</span></a>
         </nav>
 
-        <button className='new-tweet' type='button'> <Pencil/> <span>Tweet</span></button>
+        <button className='new-tweet' type='button'> <Pencil /> <span>Tweet</span></button>
       </aside>
   )
 }

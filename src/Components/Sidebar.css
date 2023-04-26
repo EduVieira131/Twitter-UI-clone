@@ -24,7 +24,7 @@
   border: 0;
 }
 
-.sidebar.new-tweet svg {
+.sidebar .new-tweet svg {
   width: 1.5rem;
   height: 1.5rem;
   display: none;
