@@ -28,7 +28,7 @@ Você pode clonar o projeto e instalar suas dependências através dos seguintes
 
 ```sh
 git clone https://github.com/EduVieira131/Twitter-UI-clone
-cd rsxp-2023
+cd Twitter-UI-clone
 npm install
 ```
 
